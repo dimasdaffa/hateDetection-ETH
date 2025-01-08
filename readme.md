@@ -73,6 +73,6 @@ Proyek ini bertujuan untuk mendeteksi ujaran kebencian (hate speech) pada teks t
 ---
 
 ## Penyimpanan Model
-- **Model**: `logistic_regression_model.pkl`
+- **Model**: `logistic_reg_model.pkl`
 - **TF-IDF Vectorizer**: `tfidf_vectorizer.pkl`
 
