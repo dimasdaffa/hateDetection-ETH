@@ -1,4 +1,7 @@
 # Hate Speech Detection Erick Ten Hag Manchaster United Twitter
+# DIMAS DAFFA ERNANDA
+# A11.2022.14079
+# STKI A11.4701
 
 ## Deskripsi Proyek
 Proyek ini bertujuan untuk mendeteksi ujaran kebencian (hate speech) pada teks tweet Erick Ten Hag di Twitter menggunakan metode Logistic Regression. Dataset telah melalui berbagai tahapan preprocessing, oversampling, dan vektorisasi sebelum digunakan untuk melatih model.
