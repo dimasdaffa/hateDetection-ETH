@@ -1,4 +1,6 @@
 pandas
+pip==24.0
+wordcloud
 seaborn
 joblib
 wordcloud
