@@ -3,6 +3,6 @@ pip==24.0
 wordcloud
 seaborn
 joblib
-wordcloud
 matplotlib
 scikit-learn
+streamlit
