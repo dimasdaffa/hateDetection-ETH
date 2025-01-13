@@ -1,8 +1,6 @@
-pandas==2.2.3
-streamlit
+pandas
 seaborn
 joblib
 wordcloud
 matplotlib
-pip==24.0
 scikit-learn
