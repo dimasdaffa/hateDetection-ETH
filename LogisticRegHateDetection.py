@@ -74,7 +74,7 @@ plt.show()
 # In[13]:
 
 
-get_ipython().run_line_magic('pip', 'install wordcloud')
+# get_ipython().run_line_magic('pip', 'install wordcloud')
 
 from wordcloud import WordCloud
 import matplotlib.pyplot as plt
