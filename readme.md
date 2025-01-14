@@ -1,4 +1,4 @@
-# Hate Speech Detection Erick Ten Hag Manchaster United Twitter
+# Hate Speech Detection Erick Ten Hag Manchester United Twitter
 # DIMAS DAFFA ERNANDA
 # A11.2022.14079
 # STKI A11.4701
