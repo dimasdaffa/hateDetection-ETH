@@ -1,2 +1,6 @@
 LogisticRegression_TFIDF_BERT.ipynb
 streamlit.ipynb
+TestModelBERT.ipynb
+logistic_reg_bert_model.pkl
+logistic_reg_tfidf_model.pkl
+LogisticRegHateDetection.py
