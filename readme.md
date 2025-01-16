@@ -77,10 +77,8 @@ Proyek ini bertujuan untuk mendeteksi ujaran kebencian (hate speech) pada teks t
 ---
 
 ## Hasil Evaluasi Model
-
-- **Accuracy**: {nilai_akurasi}
-- **Precision**: {nilai_precision}
-- **Recall**: {nilai_recall}
+![alt text](image.png)
+![alt text](image-1.png)
 
 ---
 
